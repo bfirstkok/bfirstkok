@@ -87,8 +87,8 @@ A web forum project with a modern dark theme, community features, and interactiv
 
   </td>
     <td width="32%" align="center" valign="top">
-      <img src="assets/techstack-anime.gif" width="240" /><br><br>
-      <img src="assets/techstack-anime2.gif" width="240" />
+      <img src="assets/techstack-anime.gif" width="540" /><br><br>
+      <img src="assets/techstack-anime2.gif" width="540" />
     </td>
   </tr>
 </table>
