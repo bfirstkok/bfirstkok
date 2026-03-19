@@ -1,8 +1,8 @@
 <div align="center">
 
-#  Hi there, I'm Khanathippakorn 
+# ✨ Hi there, I'm Khanathippakorn 👋
 
-###  Computer Engineering Student | Developer | IoT & AI Enthusiast 
+### 🌸 Computer Engineering Student | Developer | IoT & AI Enthusiast 🌸
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF77C8&center=true&vCenter=true&width=800&lines=Welcome+to+my+anime-themed+GitHub+Profile+%E2%9C%A8;Computer+Engineering+Student;Web+Developer+%7C+IoT+Maker+%7C+AI+Explorer;Building+projects+with+code+and+creativity+%E0%B8%85%5E%E2%80%A2%CC%81%E1%B4%97%E2%80%A2%CC%80%5E%E0%B8%85" alt="Typing SVG" />
 
@@ -14,44 +14,44 @@
 
 ---
 
-##  About Me
+## 🌙 About Me
 
--  I'm a **Computer Engineering student**
--  Interested in **Web Development, IoT, AI, and System Design**
--  I enjoy building projects that connect **software + hardware**
--  Currently learning **Full Stack Development, Embedded Systems, and Machine Learning**
--  My goal is to create useful technology that solves real-world problems
--  I love combining **logic, creativity, and aesthetic design** in my projects
+- 🎓 I'm a **Computer Engineering student**
+- 💻 Interested in **Web Development, IoT, AI, and System Design**
+- 🛠️ I enjoy building projects that connect **software + hardware**
+- 🌱 Currently learning **Full Stack Development, Embedded Systems, and Machine Learning**
+- 🎯 My goal is to create useful technology that solves real-world problems
+- 🌸 I love combining **logic, creativity, and aesthetic design** in my projects
 
 ---
 
-##  Featured Projects
+## ✨ Featured Projects
 
-###  Patient Monitoring & Queue Management System
+### 🏥 Patient Monitoring & Queue Management System
 A smart healthcare-related project for patient tracking, triage support, and queue management.  
 Built with a focus on improving patient flow, monitoring, and decision support.
 
-###  Smart Medicine Storage Room
+### 💊 Smart Medicine Storage Room
 An IoT + Digital Twin project using sensors, ESP32, and dashboard systems for monitoring medicine storage conditions.
 
-###  Dino Forum
+### 🦖 Dino Forum
 A web forum project with a modern dark theme, community features, and interactive user experience.
 
 ---
 
-##  Tech Stack
+## 🎀 Tech Stack
 
-###  Programming Languages
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,php,html,css" />
 </p>
 
-###  Frameworks & Libraries
+### 🚀 Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=django,bootstrap,nodejs,react,nextjs" />
 </p>
 
-###  Databases & Tools
+### 🗄️ Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,vscode,figma,arduino" />
 </p>
@@ -67,34 +67,39 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bfirstkok&show_icons=true&theme=radical&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfirstkok&layout=compact&theme=radical&hide_border=true" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bfirstkok&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfirstkok&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-##  Currently Working On
+## 🌸 Currently Working On
 
 - Smart healthcare / hospital-related systems
 - IoT monitoring dashboards
 - AI-assisted decision support systems
 - Personal portfolio and creative developer branding
--  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31g2rocxd2hqb5snxb55meh543su">
-    <img 
-      src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31g2rocxd2hqb5snxb55meh543su&hide_title=1&hide_recents=1" 
-      alt="Spotify Data Card"
-      width="908"
-    >
-  </a>
 
 ---
 
-##  Contact
+## 🎧 Spotify
+
+<div align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31g2rocxd2hqb5snxb55meh543su">
+    <img 
+      src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31g2rocxd2hqb5snxb55meh543su&hide_title=1"
+      alt="Spotify Data Card"
+      width="420"
+    >
+  </a>
+</div>
+
+---
+
+## 💌 Contact
 
 <p align="center">
   <a href="https://www.facebook.com/khanathippakorn.namthachak/">
@@ -113,22 +118,9 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
----
-
-
-
- 
-
-
----
-
-## 💌 Contact
-  
-  ---
-
 <div align="center">
 
-###  “Code, Build, Improve, Repeat.” 
+### 🌟 “Code, Build, Improve, Repeat.”
 ### ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 </div>
