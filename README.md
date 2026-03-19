@@ -1,19 +1,14 @@
-# Hi there, I'm Khanathippakorn 👋
+<div align="center">
 
+#  Hi there, I'm Khanathippakorn 
 
+###  Computer Engineering Student | Developer | IoT & AI Enthusiast 
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF77C8&center=true&vCenter=true&width=800&lines=Welcome+to+my+anime-themed+GitHub+Profile+%E2%9C%A8;Computer+Engineering+Student;Web+Developer+%7C+IoT+Maker+%7C+AI+Explorer;Building+projects+with+code+and+creativity+%E0%B8%85%5E%E2%80%A2%CC%81%E1%B4%97%E2%80%A2%CC%80%5E%E0%B8%85" alt="Typing SVG" />
 
+<br><br>
 
-
-### Computer Engineering Student | Developer | IoT & AI Enthusiast
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Computer+Engineering+Student;Web+Developer+%7C+IoT+Maker+%7C+AI+Explorer;Building+Projects+with+Code+and+Creativity" alt="Typing SVG" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=bfirstkok&color=0dcaf0&style=for-the-badge" alt="profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=bfirstkok&color=ff69b4&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -24,8 +19,9 @@
 -  I'm a **Computer Engineering student**
 -  Interested in **Web Development, IoT, AI, and System Design**
 -  I enjoy building projects that connect **software + hardware**
--  Currently learning and improving in **Full Stack Development, Embedded Systems, and Machine Learning**
+-  Currently learning **Full Stack Development, Embedded Systems, and Machine Learning**
 -  My goal is to create useful technology that solves real-world problems
+-  I love combining **logic, creativity, and aesthetic design** in my projects
 
 ---
 
@@ -60,7 +56,7 @@ A web forum project with a modern dark theme, community features, and interactiv
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,vscode,figma,arduino" />
 </p>
 
-###  Hardware / IoT
+### 🔌 Hardware / IoT
 - ESP32
 - DHT22
 - IR Sensor
@@ -75,8 +71,8 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bfirstkok&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfirstkok&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bfirstkok&show_icons=true&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfirstkok&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
@@ -93,18 +89,18 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ##  Contact
 
-<p align="left">
+<p align="center">
   <a href="https://www.facebook.com/khanathippakorn.namthachak/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-ffb6d9?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/b_first_kok/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-ff77c8?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/bfirstkok">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:bfirstkok@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-ff8fab?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -112,6 +108,7 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 <div align="center">
 
-### ✨ “Code, Build, Improve, Repeat.” ✨
+###  “Code, Build, Improve, Repeat.” 
+### ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 </div>
