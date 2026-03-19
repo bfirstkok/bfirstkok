@@ -53,32 +53,42 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-##  Tech Stack
+<h2 align="left">🎀 Tech Stack</h2>
 
-###  Programming Languages
+<table>
+  <tr>
+    <td width="68%" valign="top">
+
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,php,html,css" />
 </p>
 
-###  Frameworks & Libraries
+### 🚀 Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=django,bootstrap,nodejs,react,nextjs" />
 </p>
 
-###  Databases & Tools
+### 🗄️ Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,vscode,figma,arduino" />
 </p>
 
-###  Hardware / IoT
-- ESP32
-- DHT22
-- IR Sensor
-- Servo Motor
-- Relay Module
-- RFID
-- Embedded & Sensor-based Systems
+### 🔌 Hardware / IoT
+- ESP32  
+- DHT22  
+- IR Sensor  
+- Servo Motor  
+- Relay Module  
+- RFID  
+- Embedded & Sensor-based Systems  
 
+    </td>
+    <td width="32%" align="center" valign="top">
+      <img src="assets/techstack-anime.gif" width="260" />
+    </td>
+  </tr>
+</table>
 ---
 
 ##  GitHub Stats
