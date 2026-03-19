@@ -1,7 +1,7 @@
 # Hi there, I'm Khanathippakorn 👋
 
 
-<p>
+
 <img align="left" src="assets/profile_pic.jpg" width="300" /> 
 
 <div align="center">
