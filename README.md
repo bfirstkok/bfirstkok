@@ -19,7 +19,7 @@
 <table align="center">
   <tr>
     <td width="32%" align="center" valign="top">
-      <img src="assets/aboutme-anime.jpg" width="300" />
+      <img src="assets/aboutme-anime.gif" width="300" />
     </td>
     <td width="68%" valign="top">
 
