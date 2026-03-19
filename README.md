@@ -96,6 +96,39 @@ A web forum project with a modern dark theme, community features, and interactiv
 </table>
 ---
 
+<h2 align="left">💼 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚</h2>
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="80%">
+      <b>Pcampus Studio</b><br>
+      <i>Data Dictionary</i><br>
+      Designed database structures and prepared Data Dictionary documentation for a pharmacy platform project.  
+      Worked on field definitions, variable mapping, and data planning for the web-based pharmacy management system.
+    </td>
+    <td valign="top" align="right" width="20%">
+      <b>Feb. 2022</b>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td valign="top" width="80%">
+      <b>Bonlabofficial</b><br>
+      Collaborated on a project involving a critical-patient monitoring and queue management system.  
+      Focused on production support and system-related implementation.
+    </td>
+    <td valign="top" align="right" width="20%">
+      <b>Aug. 2026</b>
+    </td>
+  </tr>
+</table>
+
+---
+
 ##  GitHub Stats
 
 <div align="center">
