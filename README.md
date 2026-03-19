@@ -95,8 +95,11 @@ A web forum project with a modern dark theme, community features, and interactiv
   </tr>
 </table>
 ---
+<h2 align="left">💼 <i>Work Experience</i></h2>
 
-<h2 align="left">💼 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚</h2>
+<p align="center">
+  <img src="assets/work-anime.gif" width="260" />
+</p>
 
 <table width="100%">
   <tr>
