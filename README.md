@@ -74,16 +74,18 @@ A web forum project with a modern dark theme, community features, and interactiv
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,vscode,figma,arduino" />
 </p>
 
-<b>🔌 Hardware / IoT</b>
-<ul>
-  <li>ESP32</li>
-  <li>DHT22</li>
-  <li>IR Sensor</li>
-  <li>Servo Motor</li>
-  <li>Relay Module</li>
-  <li>RFID</li>
-  <li>Embedded & Sensor-based Systems</li>
-</ul>
+<b>🔌 Hardware,Embedded/Network</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/PuTTY-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/KidBright-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Foundry-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Proteus-1F6FEB?style=for-the-badge" />
+</p>
 
   </td>
     <td width="32%" align="center" valign="top">
