@@ -1,6 +1,6 @@
 <div align="center">
-#⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️
-###✨ Hi there, I'm Khanathippakorn 👋
+
+#✨ Hi there, I'm Khanathippakorn 👋
 
 ### 🌸 Computer Engineering Student | Developer | IoT & AI Enthusiast 🌸
 
