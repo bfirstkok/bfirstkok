@@ -1,4 +1,4 @@
-# Hi there, I'm khanathippakorn
+# Hi there, I'm Khanathippakorn 👋
 
 <div align="center">
 
@@ -6,6 +6,10 @@
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Computer+Engineering+Student;Web+Developer+%7C+IoT+Maker+%7C+AI+Explorer;Building+Projects+with+Code+and+Creativity" alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=bfirstkok&color=0dcaf0&style=for-the-badge" alt="profile views" />
 </p>
 
 </div>
@@ -48,12 +52,12 @@ A web forum project with a modern dark theme, community features, and interactiv
   <img src="https://skillicons.dev/icons?i=django,bootstrap,nodejs,react,nextjs" />
 </p>
 
-### 🗄 Databases & Tools
+###  Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,vscode,figma,arduino" />
 </p>
 
-### 🔌 Hardware / IoT
+###  Hardware / IoT
 - ESP32
 - DHT22
 - IR Sensor
@@ -64,7 +68,7 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -84,23 +88,13 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-##  Connect With Me
-
-<p>
-  <a href="https://github.com/bfirstkok">
-    <img src="https://img.shields.io/badge/GitHub-bfirstkok-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## 🌐 Contact
+##  Contact
 
 <p align="left">
-  <a href="[https://facebook.com/yourprofile](https://www.facebook.com/khanathippakorn.namthachak/)">
+  <a href="https://www.facebook.com/khanathippakorn.namthachak/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/yourprofile](https://www.instagram.com/b_first_kok/)">
+  <a href="https://www.instagram.com/b_first_kok/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/bfirstkok">
@@ -111,8 +105,10 @@ A web forum project with a modern dark theme, community features, and interactiv
   </a>
 </p>
 
+---
+
 <div align="center">
 
-###  “Code, Build, Improve, Repeat.” 
+### ✨ “Code, Build, Improve, Repeat.” ✨
 
 </div>
