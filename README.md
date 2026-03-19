@@ -106,6 +106,8 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
+---
+
 ## 🎧 Spotify
 
 <div align="center">
@@ -116,6 +118,11 @@ A web forum project with a modern dark theme, community features, and interactiv
       width="420"
     >
   </a>
+</div>
+
+---
+
+## 💌 Contact
   
   ---
 
