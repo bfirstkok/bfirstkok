@@ -94,7 +94,7 @@ A web forum project with a modern dark theme, community features, and interactiv
     </td>
   </tr>
 </table>
----
+
 <h2 align="left">💼 <i>Work Experience</i></h2>
 
 <p align="center">
