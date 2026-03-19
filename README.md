@@ -59,33 +59,36 @@ A web forum project with a modern dark theme, community features, and interactiv
   <tr>
     <td width="68%" valign="top">
 
-### 💻 Programming Languages
+<b>💻 Programming Languages</b>
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,php,html,css" />
 </p>
 
-### 🚀 Frameworks & Libraries
+<b>🚀 Frameworks & Libraries</b>
 <p>
   <img src="https://skillicons.dev/icons?i=django,bootstrap,nodejs,react,nextjs" />
 </p>
 
-### 🗄️ Databases & Tools
+<b>🗄️ Databases & Tools</b>
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,vscode,figma,arduino" />
 </p>
 
-### 🔌 Hardware / IoT
-- ESP32  
-- DHT22  
-- IR Sensor  
-- Servo Motor  
-- Relay Module  
-- RFID  
-- Embedded & Sensor-based Systems  
+<b>🔌 Hardware / IoT</b>
+<ul>
+  <li>ESP32</li>
+  <li>DHT22</li>
+  <li>IR Sensor</li>
+  <li>Servo Motor</li>
+  <li>Relay Module</li>
+  <li>RFID</li>
+  <li>Embedded & Sensor-based Systems</li>
+</ul>
 
-    </td>
+  </td>
     <td width="32%" align="center" valign="top">
-      <img src="assets/techstack-anime.gif" width="260" />
+      <img src="assets/techstack-anime.gif" width="240" /><br><br>
+      <img src="assets/techstack-anime2.gif" width="240" />
     </td>
   </tr>
 </table>
