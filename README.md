@@ -1,4 +1,4 @@
-# Hi there, I'm First 👋
+# Hi there, I'm khanathippakorn
 
 <div align="center">
 
@@ -12,38 +12,38 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 I'm a **Computer Engineering student**
-- 💻 Interested in **Web Development, IoT, AI, and System Design**
-- 🛠️ I enjoy building projects that connect **software + hardware**
-- 🌱 Currently learning and improving in **Full Stack Development, Embedded Systems, and Machine Learning**
-- 🎯 My goal is to create useful technology that solves real-world problems
+-  I'm a **Computer Engineering student**
+-  Interested in **Web Development, IoT, AI, and System Design**
+-  I enjoy building projects that connect **software + hardware**
+-  Currently learning and improving in **Full Stack Development, Embedded Systems, and Machine Learning**
+-  My goal is to create useful technology that solves real-world problems
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
 ### 🏥 Patient Monitoring & Queue Management System
 A smart healthcare-related project for patient tracking, triage support, and queue management.  
 Built with a focus on improving patient flow, monitoring, and decision support.
 
-### 💊 Smart Medicine Storage Room
+###  Smart Medicine Storage Room
 An IoT + Digital Twin project using sensors, ESP32, and dashboard systems for monitoring medicine storage conditions.
 
-### 🦖 Dino Forum
+###  Dino Forum
 A web forum project with a modern dark theme, community features, and interactive user experience.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,php,html,css" />
 </p>
 
-### 🚀 Frameworks & Libraries
+###  Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=django,bootstrap,nodejs,react,nextjs" />
 </p>
@@ -75,7 +75,7 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-## 🧠 Currently Working On
+##  Currently Working On
 
 - Smart healthcare / hospital-related systems
 - IoT monitoring dashboards
@@ -84,7 +84,7 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p>
   <a href="https://github.com/bfirstkok">
@@ -96,6 +96,6 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 <div align="center">
 
-### ✨ “Code, Build, Improve, Repeat.” ✨
+###  “Code, Build, Improve, Repeat.” 
 
 </div>
