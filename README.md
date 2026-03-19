@@ -2,9 +2,8 @@
 
 
 
-<img align="left" src="assets/profile_pic.jpg" width="300" /> 
 
-<div align="center">
+
 
 ### Computer Engineering Student | Developer | IoT & AI Enthusiast
 
