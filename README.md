@@ -14,14 +14,31 @@
 
 ---
 
-## 🌙 About Me
+<h2 align="left">🌙 About Me</h2>
 
-- 🎓 I'm a **Computer Engineering student**
-- 💻 Interested in **Web Development, IoT, AI, and System Design**
-- 🛠️ I enjoy building projects that connect **software + hardware**
-- 🌱 Currently learning **Full Stack Development, Embedded Systems, and Machine Learning**
-- 🎯 My goal is to create useful technology that solves real-world problems
-- 🌸 I love combining **logic, creativity, and aesthetic design** in my projects
+<table align="center">
+  <tr>
+    <td width="32%" align="center" valign="top">
+      <img src="assets/aboutme-anime.jpg" width="300" />
+    </td>
+    <td width="68%" valign="top">
+
+<pre>
+bfirstkok@github
+-------------------------
+🎓 Computer Engineering Student
+🏫 Rajamangala University of Technology Isan, Khon Kaen
+💻 Web Development | IoT | AI | System Design
+🛠️ Building projects that connect software + hardware
+🌱 Learning Full Stack Development, Embedded Systems, and ML
+🎯 Goal: Build useful technology for real-world problems
+🎀 Love combining logic, creativity, and aesthetic design
+🎧 Check my musical taste below ♡
+</pre>
+
+  </td>
+  </tr>
+</table>
 
 ---
 
