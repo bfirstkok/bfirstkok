@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="left">🌙 About Me</h2>
+<h2 align="left"> About Me</h2>
 
 <table>
   <tr>
@@ -24,14 +24,14 @@
     <td width="66%" valign="top" align="left">
       <b>bfirstkok@github</b><br>
       -------------------------<br>
-      🎓 Computer Engineering Student<br>
-      🏫 Rajamangala University of Technology Isan, Khon Kaen<br>
-      💻 Web Development | IoT | AI | System Design<br>
-      🛠️ Building projects that connect software + hardware<br>
-      🌱 Learning Full Stack Development, Embedded Systems, and ML<br>
-      🎯 Goal: Build useful technology for real-world problems<br>
-      🎀 Love combining logic, creativity, and aesthetic design<br>
-      🎧 Check my musical taste below ♡
+       Computer Engineering Student<br>
+       Rajamangala University of Technology Isan, Khon Kaen<br>
+       Web Development | IoT | AI | System Design<br>
+       Building projects that connect software + hardware<br>
+       Learning Full Stack Development, Embedded Systems, and ML<br>
+       Goal: Build useful technology for real-world problems<br>
+       Love combining logic, creativity, and aesthetic design<br>
+       Check my musical taste below ♡
     </td>
   </tr>
 </table>
@@ -39,38 +39,38 @@
 
 ---
 
-## ✨ Featured Projects
+##  Featured Projects
 
-### 🏥 Patient Monitoring & Queue Management System
+###  Patient Monitoring & Queue Management System
 A smart healthcare-related project for patient tracking, triage support, and queue management.  
 Built with a focus on improving patient flow, monitoring, and decision support.
 
-### 💊 Smart Medicine Storage Room
+###  Smart Medicine Storage Room
 An IoT + Digital Twin project using sensors, ESP32, and dashboard systems for monitoring medicine storage conditions.
 
-### 🦖 Dino Forum
+###  Dino Forum
 A web forum project with a modern dark theme, community features, and interactive user experience.
 
 ---
 
-## 🎀 Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,php,html,css" />
 </p>
 
-### 🚀 Frameworks & Libraries
+###  Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=django,bootstrap,nodejs,react,nextjs" />
 </p>
 
-### 🗄️ Databases & Tools
+###  Databases & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,vscode,figma,arduino" />
 </p>
 
-### 🔌 Hardware / IoT
+###  Hardware / IoT
 - ESP32
 - DHT22
 - IR Sensor
@@ -81,7 +81,7 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bfirstkok&show_icons=true&theme=radical&hide_border=true" />
@@ -99,7 +99,7 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-<h2 align="center">💌 Contact</h2>
+<h2 align="center"> Contact</h2>
 
 <p align="center">
   <img src="assets/contact-anime.jpg" width="460" />
@@ -147,7 +147,7 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 <div align="center">
 
-### 🌟 “Code, Build, Improve, Repeat.”
+###  “Code, Build, Improve, Repeat.”
 ### ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 </div>
