@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td width="34%" align="center" valign="top">
-      <img src="assets/aboutme-anime.gif" width="300" />
+      <img src="assets/aboutme-anime.gif" width="500" />
     </td>
     <td width="66%" valign="top" align="left">
       <b>bfirstkok@github</b><br>
