@@ -88,7 +88,7 @@ A web forum project with a modern dark theme, community features, and interactiv
     <img 
       src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31g2rocxd2hqb5snxb55meh543su&hide_title=1&hide_recents=1" 
       alt="Spotify Data Card"
-      width="420"
+      width="1080"
     >
   </a>
 
