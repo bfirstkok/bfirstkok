@@ -181,13 +181,21 @@ A web forum project with a modern dark theme, community features, and interactiv
 </p>
 
 <p align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31g2rocxd2hqb5snxb55meh543su">
-    <img
-      src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31g2rocxd2hqb5snxb55meh543su&hide_title=1"
-      alt="Spotify Data Card"
-      width="820"
-    />
-  </a>
+  <img
+    src="https://lastly.iland.dev/api/cards/recent?user=bfirstkok&width=800"
+    alt="Last.fm Recent Tracks"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://lastly.iland.dev/api/cards/top-artists?user=bfirstkok&width=390"
+    alt="Last.fm Top Artists"
+  />
+  <img
+    src="https://lastly.iland.dev/api/cards/top-tracks?user=bfirstkok&width=390"
+    alt="Last.fm Top Tracks"
+  />
 </p>
 
 <p align="center">
