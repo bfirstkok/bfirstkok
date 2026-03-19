@@ -84,6 +84,13 @@ A web forum project with a modern dark theme, community features, and interactiv
 - IoT monitoring dashboards
 - AI-assisted decision support systems
 - Personal portfolio and creative developer branding
+-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31g2rocxd2hqb5snxb55meh543su">
+    <img 
+      src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31g2rocxd2hqb5snxb55meh543su&hide_title=1&hide_recents=1" 
+      alt="Spotify Data Card"
+      width="420"
+    >
+  </a>
 
 ---
 
@@ -108,17 +115,10 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-## 🎧 Spotify
 
-<div align="center">
-  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31g2rocxd2hqb5snxb55meh543su">
-    <img 
-      src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31g2rocxd2hqb5snxb55meh543su&hide_title=1&hide_recents=1" 
-      alt="Spotify Data Card"
-      width="420"
-    >
-  </a>
-</div>
+
+ 
+
 
 ---
 
