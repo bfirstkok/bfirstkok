@@ -16,26 +16,26 @@
 
 <h2 align="left">🌙 About Me</h2>
 
-<p align="center">
-  <img src="assets/aboutme-anime.gif" width="300" />
-</p>
-
-<p align="center">
-  <b>bfirstkok@github</b><br>
-  -------------------------<br>
-  🎓 Computer Engineering Student<br>
-  🏫 Rajamangala University of Technology Isan, Khon Kaen<br>
-  💻 Web Development | IoT | AI | System Design<br>
-  🛠️ Building projects that connect software + hardware<br>
-  🌱 Learning Full Stack Development, Embedded Systems, and ML<br>
-  🎯 Goal: Build useful technology for real-world problems<br>
-  🎀 Love combining logic, creativity, and aesthetic design<br>
-  🎧 Check my musical taste below ♡
-</p>
-
-  </td>
+<table>
+  <tr>
+    <td width="34%" align="center" valign="top">
+      <img src="assets/aboutme-anime.gif" width="300" />
+    </td>
+    <td width="66%" valign="top" align="left">
+      <b>bfirstkok@github</b><br>
+      -------------------------<br>
+      🎓 Computer Engineering Student<br>
+      🏫 Rajamangala University of Technology Isan, Khon Kaen<br>
+      💻 Web Development | IoT | AI | System Design<br>
+      🛠️ Building projects that connect software + hardware<br>
+      🌱 Learning Full Stack Development, Embedded Systems, and ML<br>
+      🎯 Goal: Build useful technology for real-world problems<br>
+      🎀 Love combining logic, creativity, and aesthetic design<br>
+      🎧 Check my musical taste below ♡
+    </td>
   </tr>
 </table>
+
 
 ---
 
