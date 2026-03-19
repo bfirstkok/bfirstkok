@@ -95,22 +95,22 @@ A web forum project with a modern dark theme, community features, and interactiv
     </td>
     <td width="62%" align="center" valign="top">
 
-      <br>
+  <br>
 
-      <p align="center">
+  <p align="center">
         Feel free to reach out ૮(˶ •. • ⑅)ა ♡<br>
         Just poke me again if I forget to reply (´ ▽ `;)
       </p>
 
-      <br>
+  <br>
 
-      <p align="center">
+  <p align="center">
         ❀° ┄──━❀━──┄ °❀
-      </p>
+  </p>
 
-      <br>
+  <br>
 
-      <p align="center">
+  <p align="center">
         <a href="mailto:bfirstkok@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-ff8fab?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
@@ -125,9 +125,9 @@ A web forum project with a modern dark theme, community features, and interactiv
         </a>
       </p>
 
-      <br>
+  <br>
 
-      <p align="center">
+  <p align="center">
         <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31g2rocxd2hqb5snxb55meh543su">
           <img 
             src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31g2rocxd2hqb5snxb55meh543su&hide_title=1"
@@ -137,13 +137,13 @@ A web forum project with a modern dark theme, community features, and interactiv
         </a>
       </p>
 
-      <br>
+  <br>
 
-      <p align="center">
+  <p align="center">
         <img src="http://img.shields.io/badge/Code%20Time-307%20hrs%2036%20mins-blue?style=flat" />
       </p>
 
-    </td>
+  </td>
   </tr>
 </table>
 
