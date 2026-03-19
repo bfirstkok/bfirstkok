@@ -85,55 +85,63 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-
-## 💌 Contact
+<h2 align="left"> 💌 Contact</h2>
+<hr>
 
 <table align="center">
   <tr>
     <td width="38%" align="center" valign="top">
-      <img src="assets/contact-anime.jpg" width="300" />
+      <img src="assets/contact-anime.jpg" width="275" />
     </td>
     <td width="62%" align="center" valign="top">
 
-<br>
+      <br>
 
-Feel free to reach out ૮₍˶ •. • ⑅₎ა ♡  
-Just poke me again if I forget to reply (´ ▽ ` ;)
+      <p align="center">
+        Feel free to reach out ૮(˶ •. • ⑅)ა ♡<br>
+        Just poke me again if I forget to reply (´ ▽ `;)
+      </p>
 
-<br><br>
+      <br>
 
-❀° ┄──━❀━──┄ °❀
+      <p align="center">
+        ❀° ┄──━❀━──┄ °❀
+      </p>
 
-<br><br>
+      <br>
 
-<p align="center">
-  <a href="mailto:bfirstkok@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff8fab?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/b_first_kok/">
-    <img src="https://img.shields.io/badge/Instagram-ff77c8?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/bfirstkok">
-    <img src="https://img.shields.io/badge/GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/khanathippakorn.namthachak/">
-    <img src="https://img.shields.io/badge/Facebook-ffb6d9?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+      <p align="center">
+        <a href="mailto:bfirstkok@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-ff8fab?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://www.instagram.com/b_first_kok/">
+          <img src="https://img.shields.io/badge/Instagram-ff77c8?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+        <a href="https://github.com/bfirstkok">
+          <img src="https://img.shields.io/badge/GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://www.facebook.com/khanathippakorn.namthachak/">
+          <img src="https://img.shields.io/badge/Facebook-ffb6d9?style=for-the-badge&logo=facebook&logoColor=white" />
+        </a>
+      </p>
 
-<br>
+      <br>
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31g2rocxd2hqb5snxb55meh543su">
-  <img 
-    src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31g2rocxd2hqb5snxb55meh543su&hide_title=1"
-    alt="Spotify Data Card"
-    width="360"
-  >
-</a>
+      <p align="center">
+        <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31g2rocxd2hqb5snxb55meh543su">
+          <img 
+            src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31g2rocxd2hqb5snxb55meh543su&hide_title=1"
+            alt="Spotify Data Card"
+            width="360"
+          />
+        </a>
+      </p>
 
-<br><br>
+      <br>
 
-<img src="http://img.shields.io/badge/Code%20Time-307%20hrs%2036%20mins-blue?style=flat" />
+      <p align="center">
+        <img src="http://img.shields.io/badge/Code%20Time-307%20hrs%2036%20mins-blue?style=flat" />
+      </p>
 
     </td>
   </tr>
