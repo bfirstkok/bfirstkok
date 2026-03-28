@@ -53,7 +53,7 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-<h2 align="left">🎀 Tech Stack</h2>
+<h2 align="left"> Tech Stack</h2>
 
 <table>
   <tr>
@@ -64,12 +64,12 @@ A web forum project with a modern dark theme, community features, and interactiv
   <img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,php,html,css" />
 </p>
 
-<b>🚀 Frameworks & Libraries</b>
+<b> Frameworks & Libraries</b>
 <p>
   <img src="https://skillicons.dev/icons?i=django,bootstrap,nodejs,react,nextjs" />
 </p>
 
-<b>🗄️ Databases & Tools</b>
+<b> Databases & Tools</b>
 <p>
   <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,vscode,figma,arduino" />
 </p>
@@ -95,7 +95,7 @@ A web forum project with a modern dark theme, community features, and interactiv
   </tr>
 </table>
 
-<h2 align="left">💼 <i>Work Experience</i></h2>
+<h2 align="left"> <i>Work Experience</i></h2>
 
 <p align="center">
   <img src="assets/work-anime.gif" width="360" />
@@ -141,7 +141,7 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-## 🌸 Currently Working On
+##  Currently Working On
 
 - Smart healthcare / hospital-related systems
 - IoT monitoring dashboards
