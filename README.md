@@ -2,7 +2,9 @@
 
 # ⬇️ Welcome to my profile ⬇️
 ## ✨ Hi there, I'm Khanathippakorn 👋
-### 🌸 Computer Engineering Student | Developer | IoT & AI  🌸
+### Profile link https://bfirstkok.github.io/webportfolio_me/
+#### 🌸 Computer Engineering Student | Developer | IoT & AI  🌸
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF77C8&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile+%E2%9C%A8;Computer+Engineering+Student;Web+Developer+%7C+IoT+Maker+%7C+Devops+AI;Building+projects+code%E0%B8%85%5E%E2%80%A2%CC%81%E1%B4%97%E2%80%A2%CC%80%5E%E0%B8%85" alt="Typing SVG" />
 
