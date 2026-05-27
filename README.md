@@ -134,12 +134,23 @@ A web forum project with a modern dark theme, community features, and interactiv
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bfirstkok&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <br><br>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bfirstkok&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfirstkok&layout=compact&theme=radical&hide_border=true" />
+
+  <br><br>
+
+  <img src="https://metrics.lecoq.io/bfirstkok?template=classic&config.timezone=Asia%2FBangkok" width="100%" alt="GitHub Metrics" />
+
 </div>
+
 
 ---
 
