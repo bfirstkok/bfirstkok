@@ -29,18 +29,14 @@
 ---
 
 <h2 align="left">💬 About Me</h2>
-
 <table>
-  <tr>
-    <td width="34%" align="center" valign="top">
-      <img src="assets/aboutme-anime.gif" width="500" alt="About Me" />
-    </td>
-
-    <td width="66%" valign="top" align="left">
-
+<tr>
+<td width="34%" align="center" valign="top">
+<img src="assets/aboutme-anime.gif" width="500" alt="About Me" />
+</td>
+<td width="66%" valign="top" align="left">
 <b>bfirstkok@github</b><br>
 <code>-----------------------------</code><br><br>
-
 🎓 Computer Engineering Student<br>
 🏫 Rajamangala University of Technology Isan, Khon Kaen Campus<br>
 💻 Interested in Backend Development, DevOps, and System Infrastructure<br>
@@ -50,9 +46,8 @@
 🚀 Learning CI/CD, cloud infrastructure, automation, and deployment<br>
 🎯 Goal: Build reliable systems that solve real-world problems<br>
 ✨ I enjoy combining engineering, technology, and creative design
-
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
