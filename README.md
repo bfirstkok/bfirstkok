@@ -35,8 +35,8 @@
 <img src="assets/aboutme-anime.gif" width="500" alt="About Me" />
 </td>
 <td width="66%" valign="top" align="left">
-<b>bfirstkok@github</b><br>
-<code>-----------------------------</code><br><br>
+<b>👨‍💻 Backend Developer & DevOps Enthusiast</b><br>
+<span>Building, deploying, and improving reliable systems.</span><br><br>
 🎓 Computer Engineering Student<br>
 🏫 Rajamangala University of Technology Isan, Khon Kaen Campus<br>
 💻 Interested in Backend Development, DevOps, and System Infrastructure<br>
