@@ -160,16 +160,16 @@ Netcat, LinPEAS, pspy, ExifTool, Binwalk, and Steghide
 <br>
 
 <table width="100%">
-  <tr>
-    <td width="78%" valign="top">
-      <b>Full-Stack Web Developer — POS System</b><br>
-      Developed a web-based point-of-sale system for managing products,
-      orders, stock, users, and sales information.
-    </td>
-    <td width="22%" align="right" valign="top">
-      <b>Apr. 2026</b>
-    </td>
-  </tr>
+<tr>
+<td width="78%" valign="top">
+<b>Full-Stack Web Developer — POS System</b><br>
+Developed a web-based point-of-sale system for managing products,
+orders, stock, users, and sales information.
+</td>
+<td width="22%" align="right" valign="top">
+<b>Apr. 2026</b>
+</td>
+</tr>
 </table>
 
 <br>
