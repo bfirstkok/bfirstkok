@@ -141,83 +141,53 @@ Netcat, LinPEAS, pspy, ExifTool, Binwalk, and Steghide
 
 ---
 
-## 💼 Project Experience
-
-<table width="100%">
-  <tr>
-    <td width="78%" valign="top">
-      <b>Full-Stack Web Developer — NTJ Engineering Store Management System</b><br>
-      Developed an internal inventory and construction-material management
-      system, including product records, stock movement, permissions,
-      dashboards, and database integration.
-    </td>
-    <td width="22%" align="right" valign="top">
-      <b>Apr. 2026</b>
-    </td>
-  </tr>
-</table>
-
-<br>
-
+<h2 align="left">💼 Project Experience</h2>
 <table width="100%">
 <tr>
 <td width="78%" valign="top">
-<b>Full-Stack Web Developer — POS System</b><br>
-Developed a web-based point-of-sale system for managing products,
-orders, stock, users, and sales information.
+<b>Full-Stack Web Developer — NTJ Engineering Store Management System</b><br>
+Developed an internal inventory and construction-material management system, including product records, stock movement, permissions, dashboards, and database integration.
 </td>
 <td width="22%" align="right" valign="top">
 <b>Apr. 2026</b>
 </td>
 </tr>
-</table>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="78%" valign="top">
-      <b>Full-Stack Developer — Bonlabofficial Graduation Project</b><br>
-      Collaborated on a critical-patient monitoring and queue management
-      platform. Worked on system implementation, REST API integration,
-      backend functionality, and production support.
-    </td>
-    <td width="22%" align="right" valign="top">
-      <b>Mar. 2025</b>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="78%" valign="top">
-      <b>Web Developer — Mechanical Engineering Website</b><br>
-      Developed and improved a website for the Mechanical Engineering
-      program, including content structure, interface design, and
-      responsive web pages.
-    </td>
-    <td width="22%" align="right" valign="top">
-      <b>Mar. 2025</b>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="78%" valign="top">
-      <b>Pcampus Studio — Data Dictionary</b><br>
-      Designed database structures and prepared Data Dictionary
-      documentation for a pharmacy management platform. Worked on field
-      definitions, data types, variable mapping, and database planning.
-    </td>
-    <td width="22%" align="right" valign="top">
-      <b>Feb. 2022</b>
-    </td>
-  </tr>
+<tr>
+<td width="78%" valign="top">
+<b>Full-Stack Web Developer — POS System</b><br>
+Developed a web-based point-of-sale system for managing products, orders, stock, users, and sales information.
+</td>
+<td width="22%" align="right" valign="top">
+<b>Apr. 2026</b>
+</td>
+</tr>
+<tr>
+<td width="78%" valign="top">
+<b>Full-Stack Developer — Bonlabofficial Graduation Project</b><br>
+Collaborated on a critical-patient monitoring and queue management platform. Worked on system implementation, REST API integration, backend functionality, and production support.
+</td>
+<td width="22%" align="right" valign="top">
+<b>Mar. 2025</b>
+</td>
+</tr>
+<tr>
+<td width="78%" valign="top">
+<b>Web Developer — Mechanical Engineering Website</b><br>
+Developed and improved a website for the Mechanical Engineering program, including content structure, interface design, and responsive web pages.
+</td>
+<td width="22%" align="right" valign="top">
+<b>Mar. 2025</b>
+</td>
+</tr>
+<tr>
+<td width="78%" valign="top">
+<b>Pcampus Studio — Data Dictionary</b><br>
+Designed database structures and prepared Data Dictionary documentation for a pharmacy management platform. Worked on field definitions, data types, variable mapping, and database planning.
+</td>
+<td width="22%" align="right" valign="top">
+<b>Feb. 2022</b>
+</td>
+</tr>
 </table>
 
 ---
