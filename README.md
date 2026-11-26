@@ -8,25 +8,25 @@
 
   <br>
   <img src="https://komarev.com/ghpvc/?username=bfirstkok&color=9a76c7&style=flat-square&label=DESKTOP+VISITS" alt="Profile views">
-  <img src="https://img.shields.io/badge/SHELL-bash-313244?style=flat-square&logo=gnubash&logoColor=cba6f7" alt="Shell: bash">
-  <img src="https://img.shields.io/badge/THEME-Catppuccin-f5c2e7?style=flat-square" alt="Catppuccin theme">
+  <img src="assets/badges/shell-bash-1.svg" alt="Shell: bash">
+  <img src="assets/badges/theme-catppuccin-2.svg" alt="Catppuccin theme">
 </div>
 
 ### Applications · launcher
 
 <div align="center">
-<a href="#about"><img alt="About" src="https://img.shields.io/badge/About-cba6f7?style=for-the-badge&logo=linux&logoColor=1e1e2e"></a>
-<a href="#projects"><img alt="Projects" src="https://img.shields.io/badge/Projects-89b4fa?style=for-the-badge&logo=github&logoColor=1e1e2e"></a>
-<a href="#tech-stack"><img alt="Tech Stack" src="https://img.shields.io/badge/Tech%20Stack-94e2d5?style=for-the-badge&logo=docker&logoColor=1e1e2e"></a>
-<a href="#experience"><img alt="Experience" src="https://img.shields.io/badge/Experience-f9e2af?style=for-the-badge&logo=gnometerminal&logoColor=1e1e2e"></a>
-<br>
-<a href="#workspace"><img alt="Workspace" src="https://img.shields.io/badge/Workspace-a6e3a1?style=for-the-badge&logo=gnometerminal&logoColor=1e1e2e"></a>
-<a href="#activity"><img alt="Activity" src="https://img.shields.io/badge/Activity-f5c2e7?style=for-the-badge&logo=github&logoColor=1e1e2e"></a>
-<a href="#contact"><img alt="Contact" src="https://img.shields.io/badge/Contact-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e"></a>
-<a href="https://bfirstkok.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-b4befe?style=for-the-badge&logo=googlechrome&logoColor=1e1e2e"></a>
+  <a href="#about"><img src="assets/launcher/about.svg" width="23%" alt="About"></a>
+  <a href="#projects"><img src="assets/launcher/projects.svg" width="23%" alt="Projects"></a>
+  <a href="#tech-stack"><img src="assets/launcher/tech-stack.svg" width="23%" alt="Tech Stack"></a>
+  <a href="#experience"><img src="assets/launcher/experience.svg" width="23%" alt="Experience"></a>
+  <br>
+  <a href="#workspace"><img src="assets/launcher/workspace.svg" width="23%" alt="Workspace"></a>
+  <a href="#activity"><img src="assets/launcher/activity.svg" width="23%" alt="Activity"></a>
+  <a href="#contact"><img src="assets/launcher/contact.svg" width="23%" alt="Contact"></a>
+  <a href="https://bfirstkok.me"><img src="assets/launcher/portfolio.svg" width="23%" alt="Portfolio"></a>
 </div>
 
-> **Welcome to my workspace.** Select an application below to open its window, or use the launcher to jump to a section. Each project also has its own expandable panel.
+> **Welcome to my workspace.** Click an application tile to jump to its section, then click the terminal command to expand its contents. Individual projects also have their own expandable panels.
 
 ---
 
@@ -178,10 +178,10 @@ Netcat, LinPEAS, pspy, ExifTool, Binwalk, and Steghide
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PuTTY-4B8BBE?style=for-the-badge" />
+  <img src="assets/badges/apache-3.svg" />
+  <img src="assets/badges/ubuntu-4.svg" />
+  <img src="assets/badges/rest-api-5.svg" />
+  <img src="assets/badges/putty-6.svg" />
 </p>
 
 <b>🖥️ Backend Development</b>
@@ -203,7 +203,7 @@ Netcat, LinPEAS, pspy, ExifTool, Binwalk, and Steghide
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="assets/badges/mariadb-7.svg" />
 </p>
 
 <b>🛠️ Development Tools</b>
@@ -213,10 +213,10 @@ Netcat, LinPEAS, pspy, ExifTool, Binwalk, and Steghide
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wokwi-1ABC9C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="assets/badges/xampp-8.svg" />
+  <img src="assets/badges/phpmyadmin-9.svg" />
+  <img src="assets/badges/wokwi-10.svg" />
+  <img src="assets/badges/ollama-11.svg" />
 </p>
 
 <b>🔌 IoT, Embedded Systems & Networking</b>
@@ -226,10 +226,10 @@ Netcat, LinPEAS, pspy, ExifTool, Binwalk, and Steghide
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital%20Twin-6C63FF?style=for-the-badge" />
+  <img src="assets/badges/esp32-12.svg" />
+  <img src="assets/badges/cisco-13.svg" />
+  <img src="assets/badges/packet-tracer-14.svg" />
+  <img src="assets/badges/digital-twin-15.svg" />
 </p>
 
 <b>🔐 Cybersecurity</b>
@@ -239,9 +239,9 @@ Netcat, LinPEAS, pspy, ExifTool, Binwalk, and Steghide
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/CTF%20Practice-222222?style=for-the-badge&logo=hackthebox&logoColor=green" />
+  <img src="assets/badges/nmap-16.svg" />
+  <img src="assets/badges/burp-suite-17.svg" />
+  <img src="assets/badges/ctf-practice-18.svg" />
 </p>
 
 <b>🌐 CMS & Local Platforms</b>
@@ -251,7 +251,7 @@ Netcat, LinPEAS, pspy, ExifTool, Binwalk, and Steghide
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" />
+  <img src="assets/badges/moodle-19.svg" />
 </p>
 
   </td>
@@ -408,23 +408,23 @@ Designed database structures and prepared Data Dictionary documentation for a ph
 
 <p align="center">
   <a href="mailto:bfirstkok@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ff8fab?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="assets/badges/gmail-20.svg" />
   </a>
 
   <a href="https://www.instagram.com/b_first_kok/">
-    <img src="https://img.shields.io/badge/Instagram-ff77c8?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="assets/badges/instagram-21.svg" />
   </a>
 
   <a href="https://github.com/bfirstkok">
-    <img src="https://img.shields.io/badge/GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="assets/badges/github-22.svg" />
   </a>
 
   <a href="https://www.facebook.com/khanathippakorn.namthachak/">
-    <img src="https://img.shields.io/badge/Facebook-ffb6d9?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="assets/badges/facebook-23.svg" />
   </a>
 
   <a href="https://bfirstkok.me">
-    <img src="https://img.shields.io/badge/Portfolio-ff77c8?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="assets/badges/portfolio-24.svg" />
   </a>
 </p>
 
