@@ -26,7 +26,7 @@
   <a href="https://bfirstkok.me"><img src="assets/launcher/portfolio.svg" width="23%" alt="Portfolio"></a>
   <br>
   <a href="#career"><img src="assets/launcher/career.svg" width="23%" alt="IT Solutions"></a>
-  <a href="#homelab"><img src="assets/launcher/homelab.svg" width="23%" alt="Home Lab"></a>
+  <a href="#home-lab"><img src="assets/launcher/homelab.svg" width="23%" alt="Home Lab"></a>
   <a href="#ai-lab"><img src="assets/launcher/ai-lab.svg" width="23%" alt="AI Lab"></a>
   <a href="#education"><img src="assets/launcher/education.svg" width="23%" alt="Education"></a>
 </div>
@@ -92,8 +92,29 @@ I enjoy understanding how a system works end to end — from application logic a
 <details>
 <summary><b>🖥️ &nbsp; ls -la ~/projects</b> &nbsp; — &nbsp; click to open / close</summary>
 
+### Project directory — `tree ~/projects`
+
+| Project | Domain | Source |
+| --- | --- | --- |
+| Hospital Queue & Monitoring | Healthcare / IoT / AI | [Backend](https://github.com/bfirstkok/Project_hospital_queue) |
+| Hospital Patient Portal | Healthcare / Frontend | [Repository](https://github.com/bfirstkok/Project_hospital_queue_patient) |
+| ProjectWork | Business workflow | [Repository](https://github.com/bfirstkok/Project-Overview) |
+| BONLAB Website | Web / DevOps | [Repository](https://github.com/bfirstkok/bonlabweb) |
+| StoreStokeSystem | Inventory | [Repository](https://github.com/bfirstkok/StoreStokeSystem) |
+| Hardware POS | Retail / Transactions | [Repository](https://github.com/bfirstkok/Hardware_PosSystem) |
+| Smart Medicine Room | Embedded / IoT | [Repository](https://github.com/bfirstkok/Smart-Medicine-Room-_-ESP32) |
+| Codex Dual Profile | Developer tooling | [Repository](https://github.com/bfirstkok/Codex-Dual-profile) |
+| Misaki Dashboard | Local AI | [Repository](https://github.com/bfirstkok/misaki_ai_dashboard) |
+| LumiShelf | E-commerce demo | [Repository](https://github.com/bfirstkok/lumishelf-vibe-ebook-2026) |
+| Web MakeStatement | Finance | [Repository](https://github.com/bfirstkok/web_MakeStatement) |
+| Car Smart Display | PWA / Dashboard | [Repository](https://github.com/bfirstkok/cardisplay) |
+
+### Project dossiers — click to expand
+
 <details>
 <summary><b>🏥 Patient Monitoring & Queue Management System</b></summary>
+
+**Category:** University capstone / full-stack & IoT
 
 An academic healthcare software prototype for patient workflows, hospital queues, vital signs and AI-assisted triage decision support. Not clinically validated.
 
@@ -104,7 +125,11 @@ An academic healthcare software prototype for patient workflows, hospital queues
 - Role-based interfaces for medical staff
 - Backend and database system integration
 
-**Technologies:** Django, Python, PostgreSQL, REST API, JavaScript, IoT
+**Technologies:** Django, Python, PostgreSQL, DRF, JavaScript, Docker, Caddy, IoT
+
+**Engineering focus:** REST API and database integration, nurse-confirmed triage workflow, IoT telemetry and alerting, containerized deployment.
+
+[Backend repository](https://github.com/bfirstkok/Project_hospital_queue) · [Patient portal repository](https://github.com/bfirstkok/Project_hospital_queue_patient)
 
 </details>
 
@@ -154,7 +179,11 @@ inside a medicine storage room.
 - REST API communication
 - Storage-condition notifications
 
-**Technologies:** ESP32, Arduino, REST API, IoT, Digital Twin
+**Technologies:** ESP32, Arduino, PHP, MySQL, REST API, IoT, Digital Twin
+
+**Engineering focus:** environmental and door monitoring, Telegram notifications, dashboard-based control, offline edge logic.
+
+[View repository](https://github.com/bfirstkok/Smart-Medicine-Room-_-ESP32)
 
 </details>
 
@@ -171,6 +200,8 @@ A local AI chatbot designed to run with a locally hosted language model.
 
 **Technologies:** Python, Ollama, REST API, Local LLM
 
+[Related Misaki dashboard repository](https://github.com/bfirstkok/misaki_ai_dashboard)
+
 </details>
 
 <details>
@@ -181,6 +212,156 @@ privilege escalation, and security analysis.
 
 **Tools:** Kali Linux, Nmap, Gobuster, ffuf, Hydra, sqlmap, Nikto,
 Netcat, LinPEAS, pspy, ExifTool, Binwalk, and Steghide
+
+</details>
+
+<details>
+<summary><b>📁 ProjectWork — Sales & Engineering Workboard</b></summary>
+
+**Category:** Business workflow application
+
+Spreadsheet-style project and task tracking for sales and engineering workflows. Supports inline editing, priority and status, ownership, completion progress, filtering, notes, attachments and history. The repository also documents a separately hosted workboard variant.
+
+**Engineering focus:** Business process digitization, database-backed workflow design and responsive interfaces.
+
+**Technologies:** Django 5.2 LTS, Bootstrap 5, PostgreSQL, Docker Compose, Caddy
+
+[View source & documentation](https://github.com/bfirstkok/Project-Overview)
+
+</details>
+
+<details>
+<summary><b>📁 Hospital Queue — Patient Portal</b></summary>
+
+**Category:** Academic project / patient-facing frontend
+
+Patient-facing portal for registration, queue tracking and OPD service history, with static export and direct integration with the hospital backend.
+
+**Engineering focus:** Frontend integration, API-driven workflows and static deployment.
+
+**Technologies:** Next.js, React, TypeScript, Django REST API
+
+[View source & documentation](https://github.com/bfirstkok/Project_hospital_queue_patient)
+
+</details>
+
+<details>
+<summary><b>📁 BONLAB Laboratory Website</b></summary>
+
+**Category:** University laboratory website
+
+Multilingual laboratory website with visual content editing, dark mode, containerized deployment, CI build and smoke tests, and persistent content storage.
+
+**Engineering focus:** Web engineering, content management, deployment and maintainability.
+
+**Technologies:** Astro, Express, GrapesJS, Docker, Caddy, GitHub Actions
+
+[View source & documentation](https://github.com/bfirstkok/bonlabweb)
+
+</details>
+
+<details>
+<summary><b>📁 StoreStokeSystem — Materials Inventory</b></summary>
+
+**Category:** Business application
+
+Materials inventory with stock movement, Excel import, image uploads, low-stock dashboard, authentication, movement history and validation against insufficient stock.
+
+**Engineering focus:** Inventory workflows, database security and frontend development.
+
+**Technologies:** Next.js, TypeScript, Tailwind CSS, Supabase PostgreSQL, RLS, Storage
+
+[View source & documentation](https://github.com/bfirstkok/StoreStokeSystem)
+
+</details>
+
+<details>
+<summary><b>📁 Hardware POS System</b></summary>
+
+**Category:** Business application / active development
+
+Cloud-oriented POS for hardware and construction supplies, with stock management, atomic transactions, audit trails, and role-based security.
+
+**Engineering focus:** Transactional workflows, inventory integrity and access control.
+
+**Technologies:** Web application, Supabase, PostgreSQL, RLS
+
+[View source & documentation](https://github.com/bfirstkok/Hardware_PosSystem)
+
+</details>
+
+<details>
+<summary><b>📁 Codex Dual Profile Manager</b></summary>
+
+**Category:** Developer utility / community project
+
+Windows utility for configuring separate Codex profiles and AI gateways, with backup/restore and documented dual-window workflow. Uses an unofficial workaround that may break after updates.
+
+**Engineering focus:** Automation, configuration isolation and technical documentation.
+
+**Technologies:** PowerShell, Windows, Codex Desktop, OpenAI-compatible Responses API
+
+[View source & documentation](https://github.com/bfirstkok/Codex-Dual-profile)
+
+</details>
+
+<details>
+<summary><b>📁 Misaki AI Dashboard</b></summary>
+
+**Category:** Personal AI prototype
+
+Desktop-style local AI dashboard with persistent conversations, memory and task experiments, plus automatic Obsidian Daily Notes logging.
+
+**Engineering focus:** Local-first AI, knowledge management and API integration.
+
+**Technologies:** Node.js, Ollama, Obsidian, local JSON persistence
+
+[View source & documentation](https://github.com/bfirstkok/misaki_ai_dashboard)
+
+</details>
+
+<details>
+<summary><b>📁 LumiShelf — E-book Store</b></summary>
+
+**Category:** Web and mobile demo
+
+E-book catalog, order workflow, private file delivery via expiring signed URLs, and an Android WebViewer. Payment and email flows are simulations, not live payment processing.
+
+**Engineering focus:** E-commerce architecture, access control and deployment.
+
+**Technologies:** Next.js, Supabase, Vercel, MIT App Inventor
+
+[View source & documentation](https://github.com/bfirstkok/lumishelf-vibe-ebook-2026)
+
+</details>
+
+<details>
+<summary><b>📁 Web MakeStatement</b></summary>
+
+**Category:** Personal finance application
+
+Expense tracker with Google sign-in, summary dashboard, transaction management and receipt images. Transaction data is stored locally; cross-device synchronization is not implemented.
+
+**Engineering focus:** Frontend design, authentication and web hosting.
+
+**Technologies:** React, Tailwind CSS, Firebase Authentication, Firebase Hosting
+
+[View source & documentation](https://github.com/bfirstkok/web_MakeStatement)
+
+</details>
+
+<details>
+<summary><b>📁 Car Smart Display</b></summary>
+
+**Category:** Personal dashboard prototype
+
+In-car dashboard concept designed to reuse an Android phone, with navigation map, weather, air quality, 3D vehicle visualization and standalone PWA support.
+
+**Engineering focus:** Responsive UI, API integration and browser capabilities.
+
+**Technologies:** HTML, CSS, JavaScript, PWA, Three.js, Maps and weather APIs
+
+[View source & documentation](https://github.com/bfirstkok/cardisplay)
 
 </details>
 
@@ -298,6 +479,33 @@ Netcat, LinPEAS, pspy, ExifTool, Binwalk, and Steghide
 
 <details>
 <summary><b>🖥️ &nbsp; git log --oneline</b> &nbsp; — &nbsp; click to open / close</summary>
+
+### Current professional experience — `git log --work`
+
+**IT Pre-sales Engineering / Cooperative Education**  
+*2026 — current learning and work experience*
+
+- Analyze customer requirements and existing IT environments; research appropriate hardware, software and infrastructure options.
+- Compare technical specifications, product compatibility, and lifecycle information (EOL/EOS) for enterprise solutions.
+- Support solution planning, BOM preparation, quotation workflows, and technical documentation.
+- Work through network troubleshooting scenarios involving DHCP, IP phones, switch ports, PoE and wireless access.
+- Explore role-based Wi-Fi policies, VLAN segmentation, guest portals and network equipment configuration through hands-on labs.
+- Explore AI-assisted technical support and pre-sales workflows.
+
+### Selected technical work — `ls ~/work/case-studies`
+
+| Work area | Practical contribution / learning |
+| --- | --- |
+| Enterprise wireless | Aruba controller and access-point compatibility research, lifecycle checks and upgrade planning |
+| Network troubleshooting | DHCP/IP-phone diagnosis, switch-port testing and PoE fault investigation |
+| Network access labs | Cisco switch configuration and UniFi staff/student/guest access-policy experiments |
+| Technical pre-sales | Product comparisons, infrastructure solution research, BOM and quotation concepts |
+| Deployment & infrastructure | Docker Compose, PostgreSQL backup/restore, Caddy reverse proxy and cloud-to-home-lab migration |
+| Internal workflow software | ProjectWork task and project tracking, spreadsheet-style UI, roles and project progress |
+
+*Customer cases are summarized without identifying clients, devices, credentials, or internal infrastructure. Research, proposals and labs are not presented as completed customer implementations.*
+
+### Earlier project experience — `git log --projects`
 
 <table width="100%">
 <tr>
