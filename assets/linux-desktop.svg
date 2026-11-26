@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="404" viewBox="0 0 960 404" role="img" aria-labelledby="title desc">
 <title id="title">bfirstkok OS — Linux-inspired developer desktop</title>
-<desc id="desc">A dark lavender desktop with a terminal introducing Khanathippakorn Namthachak, a backend developer, DevOps enthusiast and computer engineering student.</desc>
+<desc id="desc">A dark lavender desktop with a terminal introducing Khanathippakorn Namthachak, a backend developer, DevOps enthusiast, IT pre-sales learner and computer engineering student.</desc>
 <defs>
   <linearGradient id="wall" x2="1" y2="1"><stop stop-color="#171725"/><stop offset=".55" stop-color="#26233e"/><stop offset="1" stop-color="#392740"/></linearGradient>
   <linearGradient id="line"><stop stop-color="#89b4fa"/><stop offset=".5" stop-color="#cba6f7"/><stop offset="1" stop-color="#f5c2e7"/></linearGradient>
@@ -33,12 +33,12 @@
 <g font-family="monospace">
 <text x="52" y="141" font-size="14" fill="#a6e3a1">bfirstkok@linux</text><text x="181" y="141" font-size="14" fill="#89b4fa">:~$</text><text x="215" y="141" font-size="14" fill="#cdd6f4">whoami</text>
 <text x="52" y="177" font-size="25" font-weight="bold" fill="#f5c2e7">Khanathippakorn Namthachak</text>
-<text x="52" y="204" font-size="14" fill="#cba6f7">Backend Developer / DevOps Enthusiast</text>
+<text x="52" y="204" font-size="14" fill="#cba6f7">Backend Developer / DevOps / IT Pre-sales</text>
 <text x="52" y="227" font-size="14" fill="#bac2de">Computer Engineering Student</text>
 <text x="52" y="258" font-size="14" fill="#a6e3a1">bfirstkok@linux</text><text x="181" y="258" font-size="14" fill="#89b4fa">:~$</text><text x="215" y="258" font-size="14" fill="#cdd6f4">cat motto.txt</text>
 <text x="52" y="281" font-size="14" fill="#f9e2af">Code. Build. Deploy. Monitor. Improve.</text>
 <text x="52" y="316" font-size="14" fill="#a6e3a1">bfirstkok@linux</text><text x="181" y="316" font-size="14" fill="#89b4fa">:~$</text><text x="215" y="316" font-size="14" fill="#cdd6f4">ls applications/</text>
-<text x="52" y="339" font-size="12" fill="#89b4fa">about  projects  stack  experience  activity  contact</text>
+<text x="52" y="339" font-size="12" fill="#89b4fa">about  projects  stack  career  homelab  ai-lab</text>
 <rect x="548" y="328" width="7" height="13" rx="1" fill="#f5c2e7"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.4s" repeatCount="indefinite"/></rect>
 </g>
 <rect x="675" y="70" width="255" height="298" rx="13" fill="#1e1e2e" stroke="#58516e"/>
@@ -46,7 +46,7 @@
 <g font-family="monospace">
 <text x="692" y="117" fill="#cba6f7" font-size="13" font-weight="bold">SYSTEM / PROFILE</text>
 <text x="692" y="150" font-size="12" fill="#9399b2">USER</text><text x="692" y="169" font-size="15" fill="#cdd6f4">bfirstkok</text>
-<text x="692" y="196" font-size="12" fill="#9399b2">FOCUS</text><text x="692" y="215" font-size="14" fill="#cdd6f4">Backend + DevOps</text>
+<text x="692" y="196" font-size="12" fill="#9399b2">FOCUS</text><text x="692" y="215" font-size="14" fill="#cdd6f4">Backend + IT Solutions</text>
 <text x="692" y="242" font-size="12" fill="#9399b2">WORKSPACE</text><text x="692" y="261" font-size="14" fill="#cdd6f4">Linux / Docker / Git</text>
 <text x="692" y="288" font-size="12" fill="#9399b2">CURRENT OBJECTIVE</text><text x="692" y="307" font-size="13" fill="#a6e3a1">Build reliable systems</text>
 <g transform="translate(692 330)"><rect x="0" width="23" height="12" rx="3" fill="#f38ba8"/><rect x="28" width="23" height="12" rx="3" fill="#fab387"/><rect x="56" width="23" height="12" rx="3" fill="#f9e2af"/><rect x="84" width="23" height="12" rx="3" fill="#a6e3a1"/><rect x="112" width="23" height="12" rx="3" fill="#94e2d5"/><rect x="140" width="23" height="12" rx="3" fill="#89b4fa"/><rect x="168" width="23" height="12" rx="3" fill="#cba6f7"/><rect x="196" width="23" height="12" rx="3" fill="#f5c2e7"/></g>

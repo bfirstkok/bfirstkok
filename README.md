@@ -24,6 +24,11 @@
   <a href="#activity"><img src="assets/launcher/activity.svg" width="23%" alt="Activity"></a>
   <a href="#contact"><img src="assets/launcher/contact.svg" width="23%" alt="Contact"></a>
   <a href="https://bfirstkok.me"><img src="assets/launcher/portfolio.svg" width="23%" alt="Portfolio"></a>
+  <br>
+  <a href="#career"><img src="assets/launcher/career.svg" width="23%" alt="IT Solutions"></a>
+  <a href="#homelab"><img src="assets/launcher/homelab.svg" width="23%" alt="Home Lab"></a>
+  <a href="#ai-lab"><img src="assets/launcher/ai-lab.svg" width="23%" alt="AI Lab"></a>
+  <a href="#education"><img src="assets/launcher/education.svg" width="23%" alt="Education"></a>
 </div>
 
 > **Welcome to my workspace.** Click an application tile to jump to its section, then click the terminal command to expand its contents. Individual projects also have their own expandable panels.
@@ -41,8 +46,8 @@
 <img src="assets/aboutme-anime.gif" width="280" alt="About Me" />
 </td>
 <td width="66%" valign="top" align="left">
-<b>👨‍💻 Backend Developer & DevOps Enthusiast</b><br>
-<span>Building, deploying, and improving reliable systems.</span><br><br>
+<b>👨‍💻 Backend Developer · DevOps Enthusiast · IT Pre-sales</b><br>
+<span>Connecting software engineering, infrastructure, and business requirements.</span><br><br>
 🎓 Computer Engineering Student<br>
 🏫 Rajamangala University of Technology Isan, Khon Kaen Campus<br>
 💻 Interested in Backend Development, DevOps, and System Infrastructure<br>
@@ -51,10 +56,32 @@
 🌐 Experienced with full-stack, IoT, networking, and embedded systems<br>
 🚀 Learning CI/CD, cloud infrastructure, automation, and deployment<br>
 🎯 Goal: Build reliable systems that solve real-world problems<br>
-✨ I enjoy combining engineering, technology, and creative design
+✨ I enjoy combining engineering, technology, and creative design<br>
+🧪 Exploring self-hosted systems, local AI, enterprise networking, and automation<br>
+🇹🇭 Based in Thailand
 </td>
 </tr>
 </table>
+
+### Personal profile — `cat ~/.profile`
+
+```yaml
+name: Khanathippakorn Namthachak
+nickname: First
+handle: bfirstkok
+education: Computer Engineering
+university: RMUTI, Khon Kaen Campus
+interests:
+  - Backend engineering and DevOps
+  - IT solution design and pre-sales
+  - Enterprise networking and infrastructure
+  - Self-hosting, local AI and automation
+  - Cybersecurity, IoT and embedded systems
+languages: Thai, English (learning)
+motto: Code, Build, Deploy, Monitor, Improve.
+```
+
+I enjoy understanding how a system works end to end — from application logic and databases to networks, deployment, and operations. My goal is to turn real-world requirements into practical, maintainable solutions and to keep learning through hands-on projects and experimentation.
 
 [↑ Return to desktop](#desktop)
 
@@ -68,8 +95,7 @@
 <details>
 <summary><b>🏥 Patient Monitoring & Queue Management System</b></summary>
 
-A smart healthcare platform for managing patients, hospital queues,
-vital signs, and AI-assisted triage.
+An academic healthcare software prototype for patient workflows, hospital queues, vital signs and AI-assisted triage decision support. Not clinically validated.
 
 - Patient registration and queue management
 - Critical-patient monitoring
@@ -341,6 +367,9 @@ Designed database structures and prepared Data Dictionary documentation for a ph
 - Internal POS and inventory-management systems
 - REST API integration for web and IoT applications
 - DevOps, CI/CD, and deployment fundamentals
+- Enterprise networking and IT solution research
+- Local AI agents and workflow automation
+- Personal home lab and self-hosted services
 
 ### Learning queue — `cat learning.md`
 
@@ -352,6 +381,137 @@ Designed database structures and prepared Data Dictionary documentation for a ph
 - Secure backend and REST API development
 - PostgreSQL database administration
 - Infrastructure and network security fundamentals
+
+[↑ Return to desktop](#desktop)
+
+</details>
+
+## Career
+
+<details>
+<summary><b>🖥️ &nbsp; solution --design</b> &nbsp; — &nbsp; IT Pre-sales & Solution Engineering</summary>
+
+### 💼 IT Pre-sales & Solution Engineering
+
+My current professional learning and work focus connects customer requirements with practical IT solutions.
+
+| Area | Activities |
+| --- | --- |
+| Requirement analysis | Understand customer needs, constraints and existing infrastructure |
+| Solution design | Explore network, wireless, server and software architectures |
+| Product evaluation | Compare technical specifications, interoperability and lifecycle information |
+| Commercial support | Assist with bills of materials, quotations and technical documentation |
+| Troubleshooting | Investigate connectivity, DHCP, VLAN, wireless and device-related issues |
+| Automation | Explore AI-assisted workflows for pre-sales and technical support |
+
+**Technologies and platforms I work with or explore:** Cisco, HPE Aruba Networking, Ubiquiti UniFi, Docker, Portainer, Windows Server, Linux, and infrastructure management tools.
+
+```text
+Requirements → Technical research → Solution design
+             → Compatibility check → BOM / proposal
+             → Validation and technical support
+```
+
+[↑ Return to desktop](#desktop)
+
+</details>
+
+## Home Lab
+
+<details>
+<summary><b>🖥️ &nbsp; docker ps</b> &nbsp; — &nbsp; Self-hosted infrastructure</summary>
+
+### 🖥️ Personal Home Lab
+
+I experiment with running my own infrastructure, deploying applications and learning how production-like environments operate.
+
+| Layer | Tools and focus |
+| --- | --- |
+| Operating systems | Ubuntu Server, Windows Server, WSL |
+| Containers | Docker, Docker Compose |
+| Web serving | Caddy, Nginx, Apache, IIS |
+| Application services | Django, Gunicorn, Next.js |
+| Storage and databases | PostgreSQL, SQLite, private storage experiments |
+| Operations | SSH, backups, migrations, reverse proxy, TLS and service monitoring |
+| Cloud exploration | DigitalOcean and AWS |
+
+```text
+              HOME LAB / CONCEPTUAL ARCHITECTURE
+
+                     HTTPS clients
+                           |
+                    Reverse proxy
+                      /        \\
+               Web services    Dashboard*
+                      |
+                  PostgreSQL
+                      |
+                 Backups / storage
+
+              * Dashboard is an ongoing goal.
+```
+
+**Hands-on experiments:** migrating a containerized web application from a cloud VM to a self-hosted environment, restoring PostgreSQL databases, and configuring application deployment and reverse proxies.
+
+**Next steps:** unified service dashboard, automated backups, observability and secure remote access.
+
+[↑ Return to desktop](#desktop)
+
+</details>
+
+## AI Lab
+
+<details>
+<summary><b>🖥️ &nbsp; ollama run</b> &nbsp; — &nbsp; Local AI and automation</summary>
+
+### 🤖 AI & Automation Lab
+
+I explore AI systems that combine local models, developer tools, knowledge bases and practical workflow automation.
+
+| Project / experiment | Focus |
+| --- | --- |
+| Misaki AI | Local AI assistant, Ollama, embeddings and personal knowledge-base experiments |
+| Korin AI | Desktop assistant experiments, Thai voice interaction and computer-control workflows |
+| IT Pre-sales Copilot | AI-assisted requirement analysis and solution planning |
+| IT Troubleshooting Expert | Structured IT troubleshooting and knowledge-base design |
+| Quotation Agent | Template-based quotations and BOM workflow automation |
+
+**Tools:** Python, Ollama, REST APIs, local LLMs, embeddings, AI coding assistants and OpenAI-compatible APIs.
+
+**Current interests:** retrieval-augmented generation (RAG), tool calling, local-first AI, developer productivity and responsible automation.
+
+These are personal projects, prototypes and agent concepts rather than claims of production-ready commercial services.
+
+[↑ Return to desktop](#desktop)
+
+</details>
+
+## Education
+
+<details>
+<summary><b>🖥️ &nbsp; cat degree.md</b> &nbsp; — &nbsp; Computer Engineering & research</summary>
+
+### 🎓 Computer Engineering
+
+**Rajamangala University of Technology Isan — Khon Kaen Campus, Thailand**
+
+Academic interests include software engineering, database systems, computer networking, embedded systems, IoT and applied AI.
+
+#### Capstone — Critical Patient Monitoring and Nursing Queue Management System
+
+A research and development project combining a Django-based hospital workflow, PostgreSQL, IoT telemetry, a patient portal and AI-assisted triage.
+
+- Patient registration, vital-sign recording and nursing queue management.
+- Critical-patient monitoring and threshold-based alerts.
+- Integration of web applications, REST APIs and IoT devices.
+- Machine-learning experimentation for triage decision support.
+- Containerized deployment and relational database management.
+
+**Research status:** Academic prototype; AI suggestions require human review and are not a clinically validated diagnostic or triage service.
+
+#### Learning beyond the classroom
+
+Hands-on networking labs, cybersecurity CTF exercises, server administration, containerization, and real-world application development.
 
 [↑ Return to desktop](#desktop)
 
