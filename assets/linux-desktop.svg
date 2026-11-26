@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="404" viewBox="0 0 960 404" role="img" aria-labelledby="title desc">
+<title id="title">bfirstkok OS — Linux-inspired developer desktop</title>
+<desc id="desc">A dark lavender desktop with a terminal introducing Khanathippakorn Namthachak, a backend developer, DevOps enthusiast and computer engineering student.</desc>
+<defs>
+  <linearGradient id="wall" x2="1" y2="1"><stop stop-color="#171725"/><stop offset=".55" stop-color="#26233e"/><stop offset="1" stop-color="#392740"/></linearGradient>
+  <linearGradient id="line"><stop stop-color="#89b4fa"/><stop offset=".5" stop-color="#cba6f7"/><stop offset="1" stop-color="#f5c2e7"/></linearGradient>
+  <pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#cba6f7" opacity=".10"/></pattern>
+  <clipPath id="clip"><rect width="960" height="404" rx="17"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="960" height="404" fill="url(#wall)"/>
+<rect width="960" height="404" fill="url(#dots)"/>
+<path d="M510 404 L715 158 L960 404Z" fill="#cba6f7" opacity=".045"/>
+<path d="M650 404 L827 198 L960 346 L960 404Z" fill="#f5c2e7" opacity=".055"/>
+<circle cx="870" cy="92" r="94" fill="#f5c2e7" opacity=".035"/>
+<rect width="960" height="39" fill="#11111b"/>
+<g font-family="monospace" font-size="13" fill="#cdd6f4">
+<rect x="19" y="11" width="17" height="17" rx="5" fill="#cba6f7"/>
+<path d="M24 17l4 3-4 3m6 0h3" fill="none" stroke="#1e1e2e" stroke-width="1.6" stroke-linecap="round"/>
+<text x="45" y="24" font-weight="bold">bfirstkok OS</text>
+<text x="186" y="24" fill="#a6adc8">Applications</text>
+<text x="305" y="24" fill="#a6adc8">Places</text>
+<text x="480" y="24" text-anchor="middle" fill="#bac2de">~/profile</text>
+<circle cx="760" cy="19" r="4" fill="#a6e3a1"/><text x="772" y="24" fill="#a6e3a1">developer mode</text>
+<path d="M917 22q8-12 16 0m-12 0q4-6 8 0" stroke="#cdd6f4" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+<circle cx="925" cy="25" r="1.8" fill="#cdd6f4"/>
+</g>
+<rect x="30" y="70" width="620" height="298" rx="13" fill="#11111b" opacity=".42" transform="translate(4 5)"/>
+<rect x="30" y="70" width="620" height="298" rx="13" fill="#1e1e2e" stroke="#58516e"/>
+<path d="M43 70h594a13 13 0 0 1 13 13v26H30V83a13 13 0 0 1 13-13Z" fill="#313244"/>
+<circle cx="49" cy="90" r="5" fill="#f38ba8"/><circle cx="66" cy="90" r="5" fill="#f9e2af"/><circle cx="83" cy="90" r="5" fill="#a6e3a1"/>
+<text x="340" y="95" text-anchor="middle" font-family="monospace" font-size="13" fill="#cdd6f4">Terminal — bfirstkok@localhost: ~</text>
+<g font-family="monospace">
+<text x="52" y="141" font-size="14" fill="#a6e3a1">bfirstkok@linux</text><text x="181" y="141" font-size="14" fill="#89b4fa">:~$</text><text x="215" y="141" font-size="14" fill="#cdd6f4">whoami</text>
+<text x="52" y="177" font-size="25" font-weight="bold" fill="#f5c2e7">Khanathippakorn Namthachak</text>
+<text x="52" y="204" font-size="14" fill="#cba6f7">Backend Developer / DevOps Enthusiast</text>
+<text x="52" y="227" font-size="14" fill="#bac2de">Computer Engineering Student</text>
+<text x="52" y="258" font-size="14" fill="#a6e3a1">bfirstkok@linux</text><text x="181" y="258" font-size="14" fill="#89b4fa">:~$</text><text x="215" y="258" font-size="14" fill="#cdd6f4">cat motto.txt</text>
+<text x="52" y="281" font-size="14" fill="#f9e2af">Code. Build. Deploy. Monitor. Improve.</text>
+<text x="52" y="316" font-size="14" fill="#a6e3a1">bfirstkok@linux</text><text x="181" y="316" font-size="14" fill="#89b4fa">:~$</text><text x="215" y="316" font-size="14" fill="#cdd6f4">ls applications/</text>
+<text x="52" y="339" font-size="12" fill="#89b4fa">about  projects  stack  experience  activity  contact</text>
+<rect x="548" y="328" width="7" height="13" rx="1" fill="#f5c2e7"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.4s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="675" y="70" width="255" height="298" rx="13" fill="#1e1e2e" stroke="#58516e"/>
+<rect x="691" y="86" width="223" height="4" rx="2" fill="url(#line)"/>
+<g font-family="monospace">
+<text x="692" y="117" fill="#cba6f7" font-size="13" font-weight="bold">SYSTEM / PROFILE</text>
+<text x="692" y="150" font-size="12" fill="#9399b2">USER</text><text x="692" y="169" font-size="15" fill="#cdd6f4">bfirstkok</text>
+<text x="692" y="196" font-size="12" fill="#9399b2">FOCUS</text><text x="692" y="215" font-size="14" fill="#cdd6f4">Backend + DevOps</text>
+<text x="692" y="242" font-size="12" fill="#9399b2">WORKSPACE</text><text x="692" y="261" font-size="14" fill="#cdd6f4">Linux / Docker / Git</text>
+<text x="692" y="288" font-size="12" fill="#9399b2">CURRENT OBJECTIVE</text><text x="692" y="307" font-size="13" fill="#a6e3a1">Build reliable systems</text>
+<g transform="translate(692 330)"><rect x="0" width="23" height="12" rx="3" fill="#f38ba8"/><rect x="28" width="23" height="12" rx="3" fill="#fab387"/><rect x="56" width="23" height="12" rx="3" fill="#f9e2af"/><rect x="84" width="23" height="12" rx="3" fill="#a6e3a1"/><rect x="112" width="23" height="12" rx="3" fill="#94e2d5"/><rect x="140" width="23" height="12" rx="3" fill="#89b4fa"/><rect x="168" width="23" height="12" rx="3" fill="#cba6f7"/><rect x="196" width="23" height="12" rx="3" fill="#f5c2e7"/></g>
+</g>
+<rect x="30" y="386" width="900" height="1" fill="#cba6f7" opacity=".18"/>
+</g></svg>

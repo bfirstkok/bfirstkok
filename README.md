@@ -1,38 +1,44 @@
+<!-- Linux-inspired GitHub profile. Native details menus; no JavaScript required. -->
+# Desktop
+
 <div align="center">
+  <img src="assets/linux-desktop.svg" width="100%" alt="Linux-inspired bfirstkok OS desktop and developer terminal">
 
-# ⬇️ Welcome to My Profile ⬇️
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1200&color=CBA6F7&center=true&vCenter=true&width=740&lines=%24+docker+compose+up+-d;%24+git+commit+-m+%22keep+building%22;Backend+%2B+DevOps+%2B+Infrastructure;Code.+Build.+Deploy.+Monitor.+Improve." alt="Animated terminal commands">
 
-## Hi, I'm Khanathippakorn Namthachak 👋
-
-### Backend Developer | DevOps Enthusiast | Computer Engineering Student
-
-<a href="https://bfirstkok.me">
-  <img src="https://img.shields.io/badge/Portfolio-bfirstkok.me-ff77c8?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<br><br>
-
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF77C8&center=true&vCenter=true&width=850&lines=Backend+Developer+%7C+DevOps+Enthusiast;Computer+Engineering+Student;Building+Reliable+Web+Systems;Docker+%7C+Linux+%7C+Backend+Development;Code%2C+Build%2C+Deploy%2C+Improve"
-  alt="Typing SVG"
-/>
-
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=bfirstkok&color=ff69b4&style=for-the-badge"
-  alt="Profile Views"
-/>
-
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=bfirstkok&color=9a76c7&style=flat-square&label=DESKTOP+VISITS" alt="Profile views">
+  <img src="https://img.shields.io/badge/SHELL-bash-313244?style=flat-square&logo=gnubash&logoColor=cba6f7" alt="Shell: bash">
+  <img src="https://img.shields.io/badge/THEME-Catppuccin-f5c2e7?style=flat-square" alt="Catppuccin theme">
 </div>
+
+### Applications · launcher
+
+<div align="center">
+<a href="#about"><img alt="About" src="https://img.shields.io/badge/About-cba6f7?style=for-the-badge&logo=linux&logoColor=1e1e2e"></a>
+<a href="#projects"><img alt="Projects" src="https://img.shields.io/badge/Projects-89b4fa?style=for-the-badge&logo=github&logoColor=1e1e2e"></a>
+<a href="#tech-stack"><img alt="Tech Stack" src="https://img.shields.io/badge/Tech%20Stack-94e2d5?style=for-the-badge&logo=docker&logoColor=1e1e2e"></a>
+<a href="#experience"><img alt="Experience" src="https://img.shields.io/badge/Experience-f9e2af?style=for-the-badge&logo=gnometerminal&logoColor=1e1e2e"></a>
+<br>
+<a href="#workspace"><img alt="Workspace" src="https://img.shields.io/badge/Workspace-a6e3a1?style=for-the-badge&logo=gnometerminal&logoColor=1e1e2e"></a>
+<a href="#activity"><img alt="Activity" src="https://img.shields.io/badge/Activity-f5c2e7?style=for-the-badge&logo=github&logoColor=1e1e2e"></a>
+<a href="#contact"><img alt="Contact" src="https://img.shields.io/badge/Contact-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e"></a>
+<a href="https://bfirstkok.me"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-b4befe?style=for-the-badge&logo=googlechrome&logoColor=1e1e2e"></a>
+</div>
+
+> **Welcome to my workspace.** Select an application below to open its window, or use the launcher to jump to a section. Each project also has its own expandable panel.
 
 ---
 
-<h2 align="left">💬 About Me</h2>
+## About
+
+<details open>
+<summary><b>🖥️ &nbsp; whoami</b> &nbsp; — &nbsp; click to open / close</summary>
+
 <table>
 <tr>
 <td width="34%" align="center" valign="top">
-<img src="assets/aboutme-anime.gif" width="500" alt="About Me" />
+<img src="assets/aboutme-anime.gif" width="280" alt="About Me" />
 </td>
 <td width="66%" valign="top" align="left">
 <b>👨‍💻 Backend Developer & DevOps Enthusiast</b><br>
@@ -50,11 +56,17 @@
 </tr>
 </table>
 
----
+[↑ Return to desktop](#desktop)
 
-## 🚀 Featured Projects
+</details>
 
-### 🏥 Patient Monitoring & Queue Management System
+## Projects
+
+<details>
+<summary><b>🖥️ &nbsp; ls -la ~/projects</b> &nbsp; — &nbsp; click to open / close</summary>
+
+<details>
+<summary><b>🏥 Patient Monitoring & Queue Management System</b></summary>
 
 A smart healthcare platform for managing patients, hospital queues,
 vital signs, and AI-assisted triage.
@@ -68,9 +80,10 @@ vital signs, and AI-assisted triage.
 
 **Technologies:** Django, Python, PostgreSQL, REST API, JavaScript, IoT
 
----
+</details>
 
-### 📦 NTJ Engineering Store Management System
+<details>
+<summary><b>📦 NTJ Engineering Store Management System</b></summary>
 
 An internal inventory and material-management system developed for
 engineering and construction operations.
@@ -84,9 +97,10 @@ engineering and construction operations.
 
 **Technologies:** Django, Python, PostgreSQL, Bootstrap, JavaScript
 
----
+</details>
 
-### 🛒 Point of Sale Management System
+<details>
+<summary><b>🛒 Point of Sale Management System</b></summary>
 
 A web-based POS system designed for product, order, and sales management.
 
@@ -99,9 +113,10 @@ A web-based POS system designed for product, order, and sales management.
 
 **Technologies:** Django, Python, PostgreSQL, JavaScript, Bootstrap
 
----
+</details>
 
-### 💊 Smart Medicine Storage Room
+<details>
+<summary><b>💊 Smart Medicine Storage Room</b></summary>
 
 An IoT and Digital Twin system for monitoring environmental conditions
 inside a medicine storage room.
@@ -115,9 +130,10 @@ inside a medicine storage room.
 
 **Technologies:** ESP32, Arduino, REST API, IoT, Digital Twin
 
----
+</details>
 
-### 🤖 Local AI Assistant Project
+<details>
+<summary><b>🤖 Local AI Assistant Project</b></summary>
 
 A local AI chatbot designed to run with a locally hosted language model.
 
@@ -129,9 +145,10 @@ A local AI chatbot designed to run with a locally hosted language model.
 
 **Technologies:** Python, Ollama, REST API, Local LLM
 
----
+</details>
 
-### 🔐 Cybersecurity CTF Practice
+<details>
+<summary><b>🔐 Cybersecurity CTF Practice</b></summary>
 
 Hands-on cybersecurity labs covering web exploitation, enumeration,
 privilege escalation, and security analysis.
@@ -139,60 +156,16 @@ privilege escalation, and security analysis.
 **Tools:** Kali Linux, Nmap, Gobuster, ffuf, Hydra, sqlmap, Nikto,
 Netcat, LinPEAS, pspy, ExifTool, Binwalk, and Steghide
 
----
+</details>
 
-<h2 align="left">💼 Project Experience</h2>
-<table width="100%">
-<tr>
-<td width="78%" valign="top">
-<b>Full-Stack Web Developer — NTJ Engineering Store Management System</b><br>
-Developed an internal inventory and construction-material management system, including product records, stock movement, permissions, dashboards, and database integration.
-</td>
-<td width="22%" align="right" valign="top">
-<b>Apr. 2026</b>
-</td>
-</tr>
-<tr>
-<td width="78%" valign="top">
-<b>Full-Stack Web Developer — POS System</b><br>
-Developed a web-based point-of-sale system for managing products, orders, stock, users, and sales information.
-</td>
-<td width="22%" align="right" valign="top">
-<b>Apr. 2026</b>
-</td>
-</tr>
-<tr>
-<td width="78%" valign="top">
-<b>Full-Stack Developer — Bonlabofficial Graduation Project</b><br>
-Collaborated on a critical-patient monitoring and queue management platform. Worked on system implementation, REST API integration, backend functionality, and production support.
-</td>
-<td width="22%" align="right" valign="top">
-<b>Mar. 2025</b>
-</td>
-</tr>
-<tr>
-<td width="78%" valign="top">
-<b>Web Developer — Mechanical Engineering Website</b><br>
-Developed and improved a website for the Mechanical Engineering program, including content structure, interface design, and responsive web pages.
-</td>
-<td width="22%" align="right" valign="top">
-<b>Mar. 2025</b>
-</td>
-</tr>
-<tr>
-<td width="78%" valign="top">
-<b>Pcampus Studio — Data Dictionary</b><br>
-Designed database structures and prepared Data Dictionary documentation for a pharmacy management platform. Worked on field definitions, data types, variable mapping, and database planning.
-</td>
-<td width="22%" align="right" valign="top">
-<b>Feb. 2022</b>
-</td>
-</tr>
-</table>
+[↑ Return to desktop](#desktop)
 
----
+</details>
 
-<h2 align="left">🧰 Tech Stack</h2>
+## Tech Stack
+
+<details>
+<summary><b>🖥️ &nbsp; cat /etc/skills.conf</b> &nbsp; — &nbsp; click to open / close</summary>
 
 <table>
   <tr>
@@ -284,16 +257,92 @@ Designed database structures and prepared Data Dictionary documentation for a ph
   </td>
 
   <td width="32%" align="center" valign="top">
-    <img src="assets/techstack-anime.gif" width="340" alt="Tech Stack" />
+    <img src="assets/techstack-anime.gif" width="240" alt="Tech Stack" />
     <br><br>
-    <img src="assets/techstack-anime2.gif" width="340" alt="Tech Stack" />
+    <img src="assets/techstack-anime2.gif" width="240" alt="Tech Stack" />
   </td>
   </tr>
 </table>
 
----
+[↑ Return to desktop](#desktop)
 
-## 📚 Currently Learning
+</details>
+
+## Experience
+
+<details>
+<summary><b>🖥️ &nbsp; git log --oneline</b> &nbsp; — &nbsp; click to open / close</summary>
+
+<table width="100%">
+<tr>
+<td width="78%" valign="top">
+<b>Full-Stack Web Developer — NTJ Engineering Store Management System</b><br>
+Developed an internal inventory and construction-material management system, including product records, stock movement, permissions, dashboards, and database integration.
+</td>
+<td width="22%" align="right" valign="top">
+<b>Apr. 2026</b>
+</td>
+</tr>
+<tr>
+<td width="78%" valign="top">
+<b>Full-Stack Web Developer — POS System</b><br>
+Developed a web-based point-of-sale system for managing products, orders, stock, users, and sales information.
+</td>
+<td width="22%" align="right" valign="top">
+<b>Apr. 2026</b>
+</td>
+</tr>
+<tr>
+<td width="78%" valign="top">
+<b>Full-Stack Developer — Bonlabofficial Graduation Project</b><br>
+Collaborated on a critical-patient monitoring and queue management platform. Worked on system implementation, REST API integration, backend functionality, and production support.
+</td>
+<td width="22%" align="right" valign="top">
+<b>Mar. 2025</b>
+</td>
+</tr>
+<tr>
+<td width="78%" valign="top">
+<b>Web Developer — Mechanical Engineering Website</b><br>
+Developed and improved a website for the Mechanical Engineering program, including content structure, interface design, and responsive web pages.
+</td>
+<td width="22%" align="right" valign="top">
+<b>Mar. 2025</b>
+</td>
+</tr>
+<tr>
+<td width="78%" valign="top">
+<b>Pcampus Studio — Data Dictionary</b><br>
+Designed database structures and prepared Data Dictionary documentation for a pharmacy management platform. Worked on field definitions, data types, variable mapping, and database planning.
+</td>
+<td width="22%" align="right" valign="top">
+<b>Feb. 2022</b>
+</td>
+</tr>
+</table>
+
+[↑ Return to desktop](#desktop)
+
+</details>
+
+## Workspace
+
+<details>
+<summary><b>🖥️ &nbsp; htop</b> &nbsp; — &nbsp; click to open / close</summary>
+
+<p align="center"><img src="assets/work-anime.gif" width="360" alt="Anime workspace animation"></p>
+
+### Active tasks — `jobs`
+
+- Backend development with Django and PostgreSQL
+- Dockerized web application environments
+- Linux server and web server configuration
+- Hospital queue and patient-monitoring systems
+- Internal POS and inventory-management systems
+- REST API integration for web and IoT applications
+- DevOps, CI/CD, and deployment fundamentals
+
+### Learning queue — `cat learning.md`
 
 - CI/CD pipeline design and deployment automation
 - Docker Compose and containerized application architecture
@@ -304,14 +353,19 @@ Designed database structures and prepared Data Dictionary documentation for a ph
 - PostgreSQL database administration
 - Infrastructure and network security fundamentals
 
----
+[↑ Return to desktop](#desktop)
 
-## 📊 GitHub Activity & Stats
+</details>
+
+## Activity
+
+<details>
+<summary><b>🖥️ &nbsp; git status</b> &nbsp; — &nbsp; click to open / close</summary>
 
 <div align="center">
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=bfirstkok&theme=radical&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=bfirstkok&theme=radical&hide_border=true"
   alt="GitHub Streak"
 />
 
@@ -331,24 +385,17 @@ Designed database structures and prepared Data Dictionary documentation for a ph
 
 </div>
 
----
+[↑ Return to desktop](#desktop)
 
-## 🎯 Currently Working On
+</details>
 
-- Backend development with Django and PostgreSQL
-- Dockerized web application environments
-- Linux server and web server configuration
-- Hospital queue and patient-monitoring systems
-- Internal POS and inventory-management systems
-- REST API integration for web and IoT applications
-- DevOps, CI/CD, and deployment fundamentals
+## Contact
 
----
-
-<h2 align="center">📫 Contact Me</h2>
+<details>
+<summary><b>🖥️ &nbsp; ssh bfirstkok@world</b> &nbsp; — &nbsp; click to open / close</summary>
 
 <p align="center">
-  <img src="assets/contact-anime.jpg" width="460" alt="Contact" />
+  <img src="assets/contact-anime.jpg" width="330" alt="Contact" />
 </p>
 
 <p align="center">
@@ -356,7 +403,7 @@ Designed database structures and prepared Data Dictionary documentation for a ph
 </p>
 
 <p align="center">
-  ❀° ┄──━❀━──┄ °❀
+  ~ open a new connection ~
 </p>
 
 <p align="center">
@@ -391,12 +438,22 @@ Designed database structures and prepared Data Dictionary documentation for a ph
   </a>
 </p>
 
+[↑ Return to desktop](#desktop)
+
+</details>
+
 ---
 
 <div align="center">
 
-### “Code, Build, Deploy, Monitor, Improve.”
+**SESSION COMPLETE · THANKS FOR VISITING**
 
-### ૮ ˶ᵔ ᵕ ᵔ˶ ა
+`bfirstkok@linux:~$ exit`
+
+Code, Build, Deploy, Monitor, Improve.
+
+૮ ˶ᵔ ᵕ ᵔ˶ ა
+
+[Back to desktop](#desktop) · [Browse repositories](https://github.com/bfirstkok?tab=repositories) · [Portfolio](https://bfirstkok.me)
 
 </div>
